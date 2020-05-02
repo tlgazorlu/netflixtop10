@@ -13,6 +13,7 @@
 		FD875387245E03660000D0D0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD875385245E03660000D0D0 /* Main.storyboard */; };
 		FD875389245E036B0000D0D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD875388245E036B0000D0D0 /* Assets.xcassets */; };
 		FD87538C245E036B0000D0D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD87538A245E036B0000D0D0 /* LaunchScreen.storyboard */; };
+		FD875394245E2C670000D0D0 /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD875393245E2C670000D0D0 /* ImageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FD875388245E036B0000D0D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FD87538B245E036B0000D0D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FD87538D245E036B0000D0D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD875393245E2C670000D0D0 /* ImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				FD87537F245E03660000D0D0 /* AppDelegate.swift */,
 				FD875381245E03660000D0D0 /* SceneDelegate.swift */,
 				FD875383245E03660000D0D0 /* ViewController.swift */,
+				FD875393245E2C670000D0D0 /* ImageViewController.swift */,
 				FD875385245E03660000D0D0 /* Main.storyboard */,
 				FD875388245E036B0000D0D0 /* Assets.xcassets */,
 				FD87538A245E036B0000D0D0 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				FD875384245E03660000D0D0 /* ViewController.swift in Sources */,
 				FD875380245E03660000D0D0 /* AppDelegate.swift in Sources */,
+				FD875394245E2C670000D0D0 /* ImageViewController.swift in Sources */,
 				FD875382245E03660000D0D0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
